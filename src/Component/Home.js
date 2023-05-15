@@ -1,6 +1,4 @@
 import React, { useState } from 'react'
-import Loader from './Loader'
-import Spinner from './Spinner'
 
 const Home = ({fetchdata}) => {
    
